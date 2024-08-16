@@ -1,0 +1,1 @@
+# MemePactS-Crypto-Space MemePact is a creative platform blending creative art with cryptocurrency. Our first token, Furtunes, lets users engage with viral content and earn rewards. Clone the repo, follow setup instructions, and start contributing. For more information and collaboration opportunities, explore the documentation and open issues.
